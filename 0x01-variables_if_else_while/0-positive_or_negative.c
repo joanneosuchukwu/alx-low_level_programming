@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * Description: this will program prints "positive, negative, and zero"
  * Returns: Always 0 (Success)
  */
 int main(void)
@@ -23,7 +23,7 @@ else if (n == 0)
 }
 else
 {
-	printf("%d is negative", n);
+	printf("%d is negative\n", n);
 }
 	return (0);
 }
