@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
  * Returns: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	int n;
 
